@@ -1,0 +1,10 @@
+Package: rmdcss
+Type: Package
+Title: Includes various CSS templates for HTML output of R Markdown documents.
+Version: 0.1.0
+Author: Nathan Stephens
+Maintainer: Nathan Stephens <nathan@rstudio.com>
+Description: Use these templates to spice up the format of your R Markdown documents.
+License: MIT
+Encoding: UTF-8
+LazyData: true
