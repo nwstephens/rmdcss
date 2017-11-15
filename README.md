@@ -7,9 +7,17 @@ These templates were lifted from [John Otander](http://markdowncss.github.io/) a
 * Retro
 * Splendor
 
+### Install
+
+Install the package from Github using devtools:
+
+```
+devtools::install_github("nwstephens/rmdcss")
+```
+
 ### Using
 
-Install the `rmdcss` package from source using `install.packages("rmdcss.tar.gz", repos = NULL, type="source")`. Then open a the R Markdown skeleton document in the RStudio IDE by selecting `File > New File > R Markdown... > From Template`. This will load a skeleton document with the appropriate YAML header:
+Open an R Markdown skeleton document in the RStudio IDE by selecting `File > New File > R Markdown... > From Template`. This will load a skeleton document with the appropriate YAML header:
 
 ```
 ---
